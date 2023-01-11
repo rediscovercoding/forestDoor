@@ -1,2 +1,2 @@
 # forestDoor
-<img src="/forestDoor.jpg">
+<img src="/forestDoor.JPG">
